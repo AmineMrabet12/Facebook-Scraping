@@ -5,7 +5,7 @@ This project consisted of scraping a Facebook page and analyze the data collecte
 Input: Name of the page.
 Output: PDF File with all the analysis.    
 ```
- ## Technologies: 
+ ## Technologies
   - facebook_page_scraper
 
   - argparse
